@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\share.xml",
+        "source": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\bundles\\debug\\res\\layout-land\\share.xml"
+    },
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-land\\encode.xml",
+        "source": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\bundles\\debug\\res\\layout-land\\encode.xml"
+    }
+]

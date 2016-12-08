@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\shopper_icon.png",
+        "source": "E:\\dev\\ErweimaDemo\\android\\src\\main\\res\\drawable-hdpi\\shopper_icon.png"
+    },
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\launcher_icon.png",
+        "source": "E:\\dev\\ErweimaDemo\\android\\src\\main\\res\\drawable-hdpi\\launcher_icon.png"
+    }
+]

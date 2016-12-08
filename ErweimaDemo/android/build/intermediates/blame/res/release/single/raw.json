@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "E:\\dev\\ErweimaDemo\\android\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\release\\raw\\zxing_beep.ogg",
+        "source": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.3.0\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\release\\raw\\zxinglegacy_beep.ogg",
+        "source": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.3.0\\res\\raw\\zxinglegacy_beep.ogg"
+    }
+]

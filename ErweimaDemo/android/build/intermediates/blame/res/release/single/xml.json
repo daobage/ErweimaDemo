@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\release\\xml\\zxinglegacy_preferences.xml",
+        "source": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.3.0\\res\\xml\\zxinglegacy_preferences.xml"
+    },
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\release\\xml\\zxing_preferences.xml",
+        "source": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.3.0\\res\\xml\\zxing_preferences.xml"
+    },
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "E:\\dev\\ErweimaDemo\\android\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

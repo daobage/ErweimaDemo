@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\release\\layout-ldpi-v4\\capture.xml",
+        "source": "E:\\dev\\ErweimaDemo\\android\\src\\main\\res\\layout-ldpi\\capture.xml"
+    },
+    {
+        "merged": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\res\\merged\\release\\layout-ldpi-v4\\zxinglegacy_capture.xml",
+        "source": "E:\\dev\\ErweimaDemo\\android\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.3.0\\res\\layout-ldpi-v4\\zxinglegacy_capture.xml"
+    }
+]
